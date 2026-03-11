@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/std-phones/static/css/main.20249e55.css",
-    "main.js": "/std-phones/static/js/main.2b09aa8a.js",
-    "index.html": "/std-phones/index.html",
-    "main.20249e55.css.map": "/std-phones/static/css/main.20249e55.css.map",
-    "main.2b09aa8a.js.map": "/std-phones/static/js/main.2b09aa8a.js.map"
+    "main.css": "/static/css/main.c08a902e.css",
+    "main.js": "/static/js/main.a9748706.js",
+    "index.html": "/index.html",
+    "main.c08a902e.css.map": "/static/css/main.c08a902e.css.map",
+    "main.a9748706.js.map": "/static/js/main.a9748706.js.map"
   },
   "entrypoints": [
-    "static/css/main.20249e55.css",
-    "static/js/main.2b09aa8a.js"
+    "static/css/main.c08a902e.css",
+    "static/js/main.a9748706.js"
   ]
 }
